@@ -1,8 +1,9 @@
 import Header from "./componentes/Header";
 function App() {
   return (
-    <>
-      <Header />
+    <>  
+    <Header />
+    <p>holaj</p>
     </>
   );
 }
