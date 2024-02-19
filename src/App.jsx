@@ -4,6 +4,7 @@ function App() {
     <>  
     <Header />
     <p>holaj</p>
+    <h1>agregado desde leondev-0</h1>
     </>
   );
 }
