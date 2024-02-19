@@ -1,18 +1,18 @@
 const Header = () => {
   return (
-    <div className=" py-3 flex justify-around items-center bg-black text-white">
+    <div className=" py-3 flex justify-around items-center bg-red-500 text-white">
       <div>
         <h1>MiEmpresa</h1>
       </div>
 
-      <div className=" flex gap-3">
-        <a className="hover: text-orange-500" href="#">
+      <div className=" flex gap-5">
+        <a className="" href="#">
           inicio
         </a>
-        <a className="hover: text-orange-500" href="#">
+        <a className="" href="#">
           Productos
         </a>
-        <a className="text-red-300 hover:white" href="#">
+        <a className="" href="#">
           Ventas
         </a>
       </div>
