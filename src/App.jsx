@@ -1,8 +1,8 @@
-import Header from "./componentes/Header";
+import Sidebar from "./componentes/Sidebar";
 function App() {
   return (
     <>
-      <Header />
+      <Sidebar />
     </>
   );
 }

@@ -12,13 +12,12 @@ const Header = () => {
         <a className="" href="#">
           Productos
         </a>
-        <a className="" href="#">
+        <a className=" hover:text-black" href="#">
           Ventas
         </a>
       </div>
 
       <div className="flex justify-around items-center">
-        <span>U</span>
         <h1>Persona1</h1>
       </div>
     </div>
